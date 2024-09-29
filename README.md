@@ -10,20 +10,14 @@
 </p>
 
 # 💬 About Me:
-I'm a Data Engineer with 2 years of experience in the IT industry, specialising in Data Platform Architecture and Data Engineering operations 🔎👀<br>    
-- 🌱 I'm currently improving my knowledge in Data Platform Architecture and Data Engineering Operations<br>    
-- 🔭 I'm looking to connect with people who share the same interests in technology, business, and books<br>    
-- 👯 I’m looking to collaborate on Data Platform project and expand my knowledge in Data Platform Architecture and Data Engineering Operations<br>
+I'm a Data Engineer with 3 years of experience in the IT industry, specialising in Data Platform Architecture and Data Engineering operations <br>    
 
 # 💻 Tech Stack:
 
 <img align="left" alt="Python" width="45px" src="icon/python-vertical.svg" />
-<img align="left" alt="Scala" width="45px" src="icon/scala-lang-icon.svg" />
 <img align="left" alt="SQL" width="35px" src="icon/sql-database-generic.svg" />
 <img align="left" alt="Spark" width="85px" src="icon/apache_spark-ar21.svg" />
-<img align="left" alt="Dremio" width="35px" src="icon/dremio-icon.svg" />
 <img align="left" alt="Airflow" width="95px" src="icon/airflow.svg" />
-<img align="left" alt="Kafka" width="80px" src="icon/kafka.svg" />
 
 <br><br/>
 # 📊 GitHub Stats:
