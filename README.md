@@ -7,6 +7,7 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/tuan-anh-vincent-nguyen/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tuan-anh-vincent-nguyen" alt="LinkedIn" /></a>&nbsp;
 <a href="https://stackoverflow.com/users/10679984"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
+<a href="https://medium.com/@tuananh8497"><img src="https://img.shields.io/badge/Medium-tuananh8497-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Stack Overflow"/></a>&nbsp;
 </p>
 
 # 💬 About Me:
