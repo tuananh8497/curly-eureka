@@ -1,4 +1,4 @@
-<p align="center"> 
+<p align="center">
     <img src="wallpaper/wallpaper.gif">
     <h1 align="center">
     <b>Welcome to my GitHub! I’m Anh Tuan (Vincent) Nguyen 👋</b>
@@ -10,10 +10,11 @@
 </p>
 
 # 💬 About Me:
-I'm a Data Engineer with 3 years of experience in the IT industry, specialising in Data Platform Architecture and Data Engineering operations <br>    
+I'm a Data Engineer with 3 years of experience in the IT industry, specialising in Data Platform Architecture and Data Engineering operations <br>
 
 # 💻 Tech Stack:
 
+<img align="left" alt="Python" width="45px" src="icon/Databricks-logo.svg" />
 <img align="left" alt="Python" width="45px" src="icon/python-vertical.svg" />
 <img align="left" alt="SQL" width="35px" src="icon/sql-database-generic.svg" />
 <img align="left" alt="Spark" width="85px" src="icon/apache_spark-ar21.svg" />
